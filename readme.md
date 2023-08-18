@@ -1,2 +1,2 @@
 # Tour of Go Exercises
-I published most of them as gists.
+I published most of it as gists.
